@@ -4,7 +4,7 @@ Remote controlled car via WiFi with an ESP32 using MicroPython.
 
 ## Installation
 
-1. Install [MicroPython](https://micropython.org/download/ESP32_GENERIC/) on your ESP32 using [esptool] (https://docs.espressif.com/projects/esptool/en/latest/esp32/) (You need to have [Python](https://www.python.org/) installed) or [Thonny IDE](https://thonny.org/). 
+1. Install [MicroPython](https://micropython.org/download/ESP32_GENERIC/) on your ESP32 using [esptool](https://docs.espressif.com/projects/esptool/en/latest/esp32/) (You need to have [Python](https://www.python.org/) installed) or [Thonny IDE](https://thonny.org/). 
 
    With esptool:
   
